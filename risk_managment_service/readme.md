@@ -1,0 +1,2 @@
+## The Risk Management Service is responsible for the following:
+- Extracts the applicant's banking information through the central bank's API and generates a final scoring based on the  account's balance , the transaction count and the credit score.
